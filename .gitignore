@@ -1,0 +1,6 @@
+.zig-cache/
+zig-out/
+.vscode/
+run.bat
+build-help/releases.json
+build-help/zig-*
